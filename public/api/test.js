@@ -1,4 +1,4 @@
-export default {
+const testData =  {
   name: 'test',
   data () {
     return {
