@@ -1,0 +1,57 @@
+{
+  "title": "前端分类",
+  "childs": [
+    {
+      "id": "001",
+      "class": "HTML5"
+    },
+    {
+      "id": "101",
+      "class": "JavaScript"
+    },
+    {
+      "id": "201",
+      "class": "TypeScript"
+    },
+    {
+      "id": "301",
+      "class": "ECMAScript"
+    },
+    {
+      "id": "401",
+      "class": "Vue"
+    },
+    {
+      "id": "501",
+      "class": "微信小程序"
+    },
+    {
+      "id": "601",
+      "class": "Webpack"
+    },
+    {
+      "id": "701",
+      "class": "Uni-app"
+    },
+    {
+      "id": "801",
+      "class": "Node"
+    },
+    {
+      "id": "901",
+      "class": "React"
+    },
+    {
+      "id": "1001",
+      "class": "Electron"
+    },
+    {
+      "id": "1002",
+      "class": "Java"
+    },
+    {
+      "id": "1003",
+      "class": "Mysql"
+    }
+  ]
+}
